@@ -2,7 +2,7 @@
 
 Resonance is a lightweight, beginner friendly and multi-purpose API used to mod Hollow Knight.
 
-[Resonance Logo](https://imgur.com/UzT56NO)
+![Resonance Logo](https://imgur.com/UzT56NO)
 
 [![Releases](https://img.shields.io/badge/release-latest-flat_square?style=flat-square&color=blue)](https://github.com/golddemon1973/Resonance/releases)
 [![HarmonyX](https://img.shields.io/badge/HarmonyX-2.16.1-blueviolet?style=flat-square)](https://github.com/bepInEx/HarmonyX)
