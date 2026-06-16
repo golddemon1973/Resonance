@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QC4nGW719mM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeanm\\Documents\\Resonance\\src\\Patcher\\Patcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeanm\\.nuget\\packages\\mono.cecil\\0.11.6\\mono.cecil.0.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}

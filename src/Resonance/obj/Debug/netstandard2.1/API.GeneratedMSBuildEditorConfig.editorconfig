@@ -1,0 +1,10 @@
+is_global = true
+build_property.MonoDetourHookGenStripUnusedHooks = 
+build_property.MonoDetourHookGenNamespace = Md
+build_property.RootNamespace = API
+build_property.ProjectDir = C:\Users\jeanm\Documents\MonoKnight\src\API\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

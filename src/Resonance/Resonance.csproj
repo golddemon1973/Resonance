@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<AssemblyName>Resonance</AssemblyName>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+		<OutputPath>..\..\dist\Output\</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="HarmonyX" Version="2.16.1" />
+		<PackageReference Include="Mono.Cecil" Version="0.11.6" />
+		<PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" Version="0.4.3" PrivateAssets="all" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Assembly-CSharp" Publicize="true">
+			<HintPath>..\..\.deps\Vanilla\Assembly-CSharp.dll</HintPath>
+		</Reference>
+		
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>..\..\.deps\Vanilla\UnityEngine.CoreModule.dll</HintPath>
+		</Reference>
+
+		<Reference Include="UnityEngine.IMGUIModule">
+			<HintPath>..\..\.deps\Vanilla\UnityEngine.IMGUIModule.dll</HintPath>
+		</Reference>
+
+		<Reference Include="UnityEngine.TextRenderingModule">
+			<HintPath>..\..\.deps\Vanilla\UnityEngine.TextRenderingModule.dll</HintPath>
+		</Reference>
+
+		<Reference Include="UnityEngine.UI">
+			<HintPath>..\..\.deps\Vanilla\UnityEngine.UI.dll</HintPath>
+		</Reference>
+		
+		<Reference Include="UnityEngine.InputLegacyModule">
+			<HintPath>..\..\.deps\Vanilla\UnityEngine.InputLegacyModule.dll</HintPath>
+		</Reference>
+
+		<Reference Include="Assembly-CSharp">
+			<HintPath>..\..\.deps\Vanilla\Assembly-CSharp.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>

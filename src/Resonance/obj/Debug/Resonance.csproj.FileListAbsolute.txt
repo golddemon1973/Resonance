@@ -1,0 +1,12 @@
+C:\Users\jeanm\Documents\Resonance\dist\Output\Resonance.deps.json
+C:\Users\jeanm\Documents\Resonance\dist\Output\Resonance.dll
+C:\Users\jeanm\Documents\Resonance\dist\Output\Resonance.pdb
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.csproj.AssemblyReference.cache
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.IgnoresAccessChecksTo.cs
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.AssemblyInfo.cs
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.csproj.Up2Date
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.dll
+C:\Users\jeanm\Documents\Resonance\src\Resonance\obj\Debug\Resonance.pdb

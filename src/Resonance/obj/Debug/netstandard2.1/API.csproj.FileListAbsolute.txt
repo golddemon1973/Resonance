@@ -1,0 +1,12 @@
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.csproj.AssemblyReference.cache
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.IgnoresAccessChecksTo.cs
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.AssemblyInfo.cs
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\MonoKnight\dist\Output\netstandard2.1\API.deps.json
+C:\Users\jeanm\Documents\MonoKnight\dist\Output\netstandard2.1\API.dll
+C:\Users\jeanm\Documents\MonoKnight\dist\Output\netstandard2.1\API.pdb
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.csproj.Up2Date
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.dll
+C:\Users\jeanm\Documents\MonoKnight\src\API\obj\Debug\netstandard2.1\API.pdb
