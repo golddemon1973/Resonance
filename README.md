@@ -2,9 +2,9 @@
 
 Resonance is a lightweight, beginner friendly and multi-purpose API used to mod Hollow Knight.
 
-![Resonance Logo](https://imgur.com/a/DY6JTNP)
+![Resonance Logo](https://i.imgur.com/DY6JTNP.png)
 
-[![Releases](https://img.shields.io/github/v/release/golddemon1973/Resonance?include_prereleases&style=flat-square)](https://github.com/golddemon1973/Resonance/releases)
+[![Releases](https://img.shields.io/badge/release-latest-flat_square?style=flat-square&color=blue)](https://github.com/golddemon1973/Resonance/releases)
 [![HarmonyX](https://img.shields.io/badge/HarmonyX-2.16.1-blueviolet?style=flat-square)](https://github.com/bepInEx/HarmonyX)
 
 > [!WARNING]
@@ -19,10 +19,11 @@ To install this API to your Hollow Knight installation, here are the steps to fo
 1. Get a **fresh** install of Hollow Knight
 2. Get the files from Resonance's [releases](https://github.com/golddemon1973/Resonance/releases)
 3. Move over to your Hollow Knight installation
-<small>On **Steam**, you can go to your game, click the gear icon and go to Manage > Browse Local Files; then, go to Hollow Knight_Data > Managed and copy and replace every single file</small>
-<small>On **Xbox**, you can go to your game, click the three dots, click Manage > Files > Browse...; then, go to Hollow Knight_Data > Managed and copy and replace every single file</small>
-<small>On **GOG**, you can go to your game, click the button with two bars and two dots, click Manage Installation > Show Folder; then, go to Hollow Knight_Data > Managed and copy and replace every single file</small>
-<small>If you are using a pirated/cracked version, support will not be provided</small>
+
+On **Steam**, you can go to your game, click the gear icon and go to Manage > Browse Local Files; then, go to Hollow Knight_Data > Managed and copy and replace every single file
+On **Xbox**, you can go to your game, click the three dots, click Manage > Files > Browse...; then, go to Hollow Knight_Data > Managed and copy and replace every single file
+On **GOG**, you can go to your game, click the button with two bars and two dots, click Manage Installation > Show Folder; then, go to Hollow Knight_Data > Managed and copy and replace every single file
+If you are using a pirated/cracked version, support will not be provided
 
 ## Installing Mods
 
@@ -100,7 +101,7 @@ Then, change the .csproj to this:
   </ItemGroup>
 </Project>
 ```
-<small>Change HKManagedPath to the path to your Hollow Knight Managed directory! You can also change AssemblyName to your liking.</small>
+Change HKManagedPath to the path to your Hollow Knight Managed directory! You can also change AssemblyName to your liking.
 
 Now, let's setup your mod:
 
@@ -183,11 +184,11 @@ namespace ResonanceMod
     }
 }
 ```
-3. Use Visual Studio to build it, or simply use
+3. Use Visual Studio to build it, or simply run this command in your mod's directory:
+
 ```powershell
 dotnet build
 ```
-in your mod's directory
 
 4. Copy the .dll files in your bin directory
 5. Go to your Hollow Knight Folder > Mods, creates a new folder with the name of your mod and copy the .dll files there
@@ -198,5 +199,5 @@ in your mod's directory
 Now that you're done with the Installation and the Setup, you have all the chances to become a great modder.
 If you ever feel stuck, you can always ask for help on the Discord server below!
 
-[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?logo=discord&logoColor=white&label=Discord)](https://discord.gg/DBHVUceW3Y)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/DBHVUceW3Y)
 
