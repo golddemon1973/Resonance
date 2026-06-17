@@ -4,11 +4,11 @@ Resonance is a lightweight, beginner friendly and multi-purpose API used to mod 
 
 <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/df791dc8-0e6b-4815-89ab-6ae06dd6bf2f" />
 
-[![Releases](https://img.shields.io/badge/release-latest-flat_square?style=flat-square&color=blue)](https://github.com/golddemon1973/Resonance/releases)
+[![Releases](https://img.shields.io/badge/Resonance-PRC1_square?style=flat-square&color=blue)](https://github.com/golddemon1973/Resonance/releases)
 [![HarmonyX](https://img.shields.io/badge/HarmonyX-2.16.1-blueviolet?style=flat-square)](https://github.com/bepInEx/HarmonyX)
 
 > [!WARNING]
-> Resonance is still in **very early development stages**; Hollow Knight may be unstable, often crash or have issues even with the more stable Unity 6 releases that it has been built for.
+> Resonance is still in **very early development stages**; Hollow Knight may be unstable, often crash or have issues even with the latest releases that Resonance has been built for.
 
 ## Installation
 
@@ -28,9 +28,7 @@ If you are using a pirated/cracked version, support will not be provided
 ## Installing Mods
 
 For now, Resonance does not have a dedicated installer, as installers like Lumafly and Scarab would force install the wrong files on your Hollow Knight installation and would place mods in the wrong folder.
-
-> [!TIP]
-> However, you can search up the mods you want for their GitHub, and download the .zip file from the latest releases. Then create a new folder inside your Hollow Knight > Mods folder, copy the files there and you'll be done.
+However, you can search up the mods you want for their GitHub, and download the .zip file from the latest releases. Then create a new folder inside your Hollow Knight > Mods folder, copy the files there and you'll be done.
 
 ## Making Mods
 
