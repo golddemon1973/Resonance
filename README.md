@@ -4,7 +4,7 @@ Resonance is a lightweight, beginner friendly and multi-purpose API used to mod 
 
 <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/df791dc8-0e6b-4815-89ab-6ae06dd6bf2f" />
 
-[![Releases](https://img.shields.io/badge/Resonance-PRC1_square?style=flat-square&color=blue)](https://github.com/golddemon1973/Resonance/releases)
+[![Releases](https://img.shields.io/badge/Resonance-PRC1-blueviolet?style=flat-square)](https://github.com/golddemon1973/Resonance/releases)
 [![HarmonyX](https://img.shields.io/badge/HarmonyX-2.16.1-blueviolet?style=flat-square)](https://github.com/bepInEx/HarmonyX)
 
 > [!WARNING]
